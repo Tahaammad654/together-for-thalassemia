@@ -6,9 +6,12 @@ A responsive static website for the student-led O-Level Global Perspectives init
 - `index.html` — main website and clearly marked editable event/content areas
 - `styles.css` — design and responsive layout
 - `script.js` — mobile menu, reveal animations and contact-form validation
-- `assets/logo.jpeg` — supplied Together for Thalassemia logo
-- `assets/alkhidmat-visit-1.jpeg` — supplied visit photograph
-- `assets/alkhidmat-visit-2.jpeg` — supplied visit photograph
+- `netlify.toml` — Netlify publish config and security headers
+- `assets/logo.jpg` — supplied Together for Thalassemia logo
+- `assets/alkhidmat-visit-1.jpg` — supplied visit photograph
+- `assets/alkhidmat-visit-2.jpg` — supplied visit photograph
+- `assets/favicon.ico`, `assets/icon.png`, `assets/apple-touch-icon.png` — favicons generated from the logo
+- `assets/og-image.jpg` — social-share preview image generated from the logo
 
 ## How to edit events
 Open `index.html` and search for `EDIT EVENTS HERE`.
